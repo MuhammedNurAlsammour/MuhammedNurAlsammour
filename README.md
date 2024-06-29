@@ -48,6 +48,39 @@
 <br>
 <br>
 
+
+<p align="center">
+  <b>Frontend</b>
+  <br>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <code><img src="./images/css.svg" alt="CSS" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://reactjs.org" target="_blank">
+    <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
+  </a>
+  <a href="https://preactjs.com" target="_blank">
+    <code><img src="./images/preact.svg" alt="PreactJS" height="40"/></code>
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <code><img src="./images/next.svg" alt="NextJS" height="40"/></code>
+  </a>
+</p>
+
+
+<br>
+<br>
+
 <p align="center">
   <b>Frameworks</b>
   <br>
