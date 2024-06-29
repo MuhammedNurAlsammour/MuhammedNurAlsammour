@@ -38,10 +38,10 @@
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/python.svg" alt="Python" height="40"/></code>
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/" alt="Python" height="40"/></code>
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/csharp.svg" alt="C#" height="40"/></code>
+    <code><img src="images/c-sharp.svg" alt="C#" height="40"/></code>
   </a>
 </p>
 
