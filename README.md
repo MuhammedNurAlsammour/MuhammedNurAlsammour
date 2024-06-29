@@ -5,11 +5,11 @@
   Hi, I'm Muhammed Nur Alsammour 👋
 </h1>
 
-<!-- Counter -->
+<!-- Counter 
 <p align="center">
   <img alt="Profile views" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MuhammedNurAlsammour&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
 </p>
-
+-->
 <p align="center">
   <b>I'm a passionate software developer with expertise in ASP.NET MVC, Joomla, WordPress, and Python, alongside skills in graphic design and web application development.</b>
 </p>
