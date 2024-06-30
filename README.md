@@ -137,6 +137,25 @@
   </a>
 </p>
 
+<p align="center">
+  <b>designers</b>
+  <br>
+  <br>
+  <a href="https://www.microsoft.com/sql-server" target="_blank">
+    <code><img src="images/adobe-illustrator-svgrepo-com.svg" alt="SQL Server" height="40"/></code>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <code><img src="images/adobe-photoshop-svgrepo-com.svg" alt="PostgreSQL" height="40"/></code>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <code><img src="images/adobe-premiere-svgrepo-com.svg" alt="PostgreSQL" height="40"/></code>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <code><img src="images/adobe-xd-svgrepo-com.svg" alt="PostgreSQL" height="40"/></code>
+  </a>
+</p>
+
+
 <!-- My Activity -->
 <h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
 <details> 
