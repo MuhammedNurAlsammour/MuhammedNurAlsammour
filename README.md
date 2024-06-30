@@ -19,11 +19,10 @@
 <br>
 
 - 🌍 Creatively curious and a self-learner, exploring new technologies and learning new skills daily.
-- 🎓 Student at [Your University/Institution](https://www.youruniversity.edu).
-- 👨‍💻 Currently working at [Your Company](https://www.yourcompany.com) as a `Full Stack Developer`.
-- 🌱 Focusing on **ASP.NET MVC**, **Joomla**, **WordPress**, enhancing **graphic design** skills, and exploring **artificial intelligence technologies**.
-- 💬 Eager to contribute to **Open Source Projects** and collaborate with developers worldwide.
-- Show ❤️ by giving ⭐ to my Repositories; your support means a lot!
+- 🎓 Student at [Your University/Institution](https://atauni.edu.tr/).
+- 👨‍💻 Currently working at [Your Company](https://kardelenyazilim.com/) as a `Frontend Developer`.
+- 🌱 Focusing on **ASP.NET MVC**, **Angular**, enhancing **graphic design** skills, and exploring **artificial intelligence technologies**.
+
 
 <h2>Tech Stack</h2>
 
@@ -137,8 +136,12 @@
   </a>
 </p>
 
+
+<br>
+<br>
+
 <p align="center">
-  <b>designers</b>
+  <b>Graphic Design</b>
   <br>
   <br>
   <a href="https://www.microsoft.com/sql-server" target="_blank">
