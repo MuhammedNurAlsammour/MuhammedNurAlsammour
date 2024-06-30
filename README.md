@@ -65,16 +65,6 @@
   <a href="https://www.typescriptlang.org" target="_blank">
     <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
   </a>
-  <br>
-  <a href="https://reactjs.org" target="_blank">
-    <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
-  </a>
-  <a href="https://preactjs.com" target="_blank">
-    <code><img src="./images/preact.svg" alt="PreactJS" height="40"/></code>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <code><img src="./images/next.svg" alt="NextJS" height="40"/></code>
-  </a>
 </p>
 
 
@@ -87,9 +77,6 @@
   <br>
   <a href="https://angular.io" target="_blank">
     <code><img src="images/angular-svgrepo-com.svg" alt="Angular" height="40"/></code>
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
   </a>
   <a href="https://nodejs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="Node.js" height="40"/></code>
