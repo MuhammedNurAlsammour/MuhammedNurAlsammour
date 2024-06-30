@@ -65,8 +65,29 @@
   <a href="https://www.typescriptlang.org" target="_blank">
     <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
   </a>
+  <br>
+    <a href="https://www.typescriptlang.org" target="_blank">
+    <code><img src="images/jquery-svgrepo-com.svg" alt="TypeScript" height="40"/></code>
+  </a>
 </p>
 
+
+<br>
+<br>
+
+
+<p align="center">
+  <b>Backend</b>
+  <br>
+  <br>
+  <a href="https://nodejs.org" target="_blank">
+    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
+  </a>
+  <a href="https://dotnet.microsoft.com" target="_blank">
+    <code><img src="./images/dotnet.svg" alt="DotNet" height="40"/></code>
+  </a>
+ 
+</p>
 
 <br>
 <br>
@@ -94,13 +115,10 @@
   <br>
   <br>
   <a href="https://git-scm.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/git.svg" alt="Git" height="40"/></code>
+    <code><img src="images/wordpress-svgrepo-com.svg" alt="Git" height="40"/></code>
   </a>
   <a href="https://www.docker.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/kubernetes.svg" alt="Kubernetes" height="40"/></code>
+    <code><img src="images/joomla-svgrepo-com.svg" alt="Docker" height="40"/></code>
   </a>
 </p>
 
