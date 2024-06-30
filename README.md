@@ -129,14 +129,11 @@
   <b>Databases</b>
   <br>
   <br>
-  <a href="https://www.mongodb.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/mongodb.svg" alt="MongoDB" height="40"/></code>
-  </a>
   <a href="https://www.microsoft.com/sql-server" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/sqlserver.svg" alt="SQL Server" height="40"/></code>
+    <code><img src="images/microsoft-sql-server-logo-svgrepo-com.svg" alt="SQL Server" height="40"/></code>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/postgresql.svg" alt="PostgreSQL" height="40"/></code>
+    <code><img src="images/pgsql-svgrepo-com.svg" alt="PostgreSQL" height="40"/></code>
   </a>
 </p>
 
