@@ -86,7 +86,7 @@
   <br>
   <br>
   <a href="https://angular.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/angular.svg" alt="Angular" height="40"/></code>
+    <code><img src="images/angular-svgrepo-com.svg" alt="Angular" height="40"/></code>
   </a>
   <a href="https://reactjs.org" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
