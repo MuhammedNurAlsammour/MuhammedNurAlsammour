@@ -22,8 +22,8 @@
 
 
 - 🌍 Creatively curious and a self-learner, exploring new technologies and learning new skills daily.
-- 🎓 Student at [Your University/Institution](https://atauni.edu.tr/).
-- 👨‍💻 Currently working at [Your Company](https://kardelenyazilim.com/) as a `Frontend Developer`.
+- 🎓 Student at [ATATÜRK  University](https://atauni.edu.tr/).
+- 👨‍💻 Currently working at [KARDELEN YAZİLİM](https://kardelenyazilim.com/) as a `Frontend Developer`.
 - 🌱 Focusing on **ASP.NET MVC**, **Angular**, enhancing **graphic design** skills, and exploring **artificial intelligence technologies**.
 
 
