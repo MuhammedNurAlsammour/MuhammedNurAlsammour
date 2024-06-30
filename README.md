@@ -226,7 +226,7 @@ VS Code                  13 hrs 26 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀�
 <!--END_SECTION:waka-->
 </details>
 
-<!-- Connection -->
+<!-- Connection 
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
 <p align="center">
   <a href="mailto:your.email@example.com" target="_blank">
@@ -238,7 +238,7 @@ VS Code                  13 hrs 26 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀�
   <a href="https://twitter.com/yourhandle" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/twitter.svg" alt="Twitter" height="30" width="40"/></code>
   </a>
-</p>
+</p>-->
 
 <!-- Signal -->
 <p align="right">
