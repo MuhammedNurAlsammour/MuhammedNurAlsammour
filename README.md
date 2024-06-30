@@ -6,6 +6,7 @@
   Hi, I'm Muhammed Nur Alsammour 👋
 </h1>
 
+
 <!-- Counter -->
 <p align="center">
   <img alt="Profile views" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MuhammedNurAlsammour&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
@@ -15,8 +16,10 @@
   <b>I'm a passionate software developer with expertise in ASP.NET MVC, Angular, and Python, alongside skills in graphic design and web application development.</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
-<br>
+<p align="center">
+  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="300">
+</p>
+
 
 - 🌍 Creatively curious and a self-learner, exploring new technologies and learning new skills daily.
 - 🎓 Student at [Your University/Institution](https://atauni.edu.tr/).
