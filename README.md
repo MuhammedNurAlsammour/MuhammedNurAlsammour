@@ -75,6 +75,23 @@
 <br>
 <br>
 
+
+<p align="center">
+  <b>Backend</b>
+  <br>
+  <br>
+  <a href="https://nodejs.org" target="_blank">
+    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
+  </a>
+  <a href="https://dotnet.microsoft.com" target="_blank">
+    <code><img src="./images/dotnet.svg" alt="DotNet" height="40"/></code>
+  </a>
+ 
+</p>
+
+<br>
+<br>
+
 <p align="center">
   <b>Frameworks</b>
   <br>
