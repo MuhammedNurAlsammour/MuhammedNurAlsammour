@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>I'm a passionate software developer with expertise in ASP.NET MVC, Joomla, WordPress, and Python, alongside skills in graphic design and web application development.</b>
+  <b>I'm a passionate software developer with expertise in ASP.NET MVC, Angular, and Python, alongside skills in graphic design and web application development.</b>
 </p>
 
 <img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
